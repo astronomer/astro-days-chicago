@@ -1,2 +1,2 @@
-astro-sdk-python[snowflake,postgres,amazon,google]==1.1.0
+astro-sdk-python[snowflake,postgres,amazon,google]==1.2.3
 pandas==1.4.4
